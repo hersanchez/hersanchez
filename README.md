@@ -8,10 +8,10 @@
           
           titulos ← [
               "Analista de Sistemas" - Titulado,
-              "Ingeniero (E) en Informática" Titulado
+              "Ingeniero (E) en Informática" - Titulado
           ]
           
-          postgrados ← [
+          postgrado ← [
               "Desarrollador Full Stack JavaScript", dictado por Desafío Latam - Titulado
           ]
           
