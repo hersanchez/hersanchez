@@ -1,16 +1,26 @@
 ## Hi there 👋
+```html
+<section>
+  <h2>💡 Perfil en Pseudolenguaje</h2>
+  <pre><code>
+nombre ← "Hernán Sánchez Paredes"
 
-<!--
-**hersanchez/hersanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+titulos ← [
+    "Analista de Sistemas - Titulado",
+    "Ingeniero (E) en Informática - Titulado"
+]
 
-Here are some ideas to get you started:
+postgrados ← [
+    "Desarrollador Full Stack JavaScript - Desafío Latam - Titulado"
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+lenguajes ← [ "PHP", "HTML", "CSS", "SQL", "COBOL" ]
+
+tecnologias {
+    framework ← [ "YiiFramework" ]
+    bases_de_datos ← [ "Postgres", "MySQL", "SQL Server" ]
+}
+
+ambientes_de_implementacion ← [ "Localhost", "Windows Server", "Hosting (CPanel)" ]
+  </code></pre>
+</section>
