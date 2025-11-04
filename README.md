@@ -1,7 +1,7 @@
-## Hi there 👋
+# About me 👋
 ```html
 <section>
-  <h2>💡 Perfil en Pseudolenguaje</h2>
+  <h2>💡 Yo, en HTML</h2>
   <pre><code>
 nombre ← "Hernán Sánchez Paredes"
 
